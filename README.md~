@@ -14,7 +14,7 @@ pip install -r requirements.txt
 ```
 #### Sample Output:
 ```
-{'prediction': [ 53.463463286890814]}
+{'prediction': [0, 1, 1, 0]}
 ```
 ## Usage
 Run ``main.py`` and open ``0.0.0.0:5000/`` in the browser and use any of the options below 
